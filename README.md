@@ -7,6 +7,6 @@ Upcoming companies list<br>
 Updating comapnies info<br>
 Create events<br>
 
-For student Users:
+For student Users:<br>
 Apply for comapny<br>
 Get latest placement related news<br>
