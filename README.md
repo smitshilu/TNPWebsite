@@ -1,12 +1,16 @@
 # TNPWebsite
 
 This is website for Charusat University, Changa, India<br>
-<br><br>
-Funcationalities:<br>
-Upcoming companies list<br>
-Updating comapnies info<br>
-Create events<br>
+Funcationalities:
+<ul>
+<li>For TNP cell members:</li><ul>
+<li>Upcoming companies list</li>
+<li>Updating comapnies info</li>
+<li>Create events</li></ul>
 
-For student Users:<br>
-Apply for comapny<br>
-Get latest placement related news<br>
+<li>For student Users:</li><ul>
+<li>Apply for comapny</li>
+<li>Get resume critique online</li>
+<li>Get latest placement related news</li>
+<li>Chcek selected students list</li>
+</ul></ul>
